@@ -1,2 +1,1 @@
-git is awesome
-new line git status
+git is awesome new line
